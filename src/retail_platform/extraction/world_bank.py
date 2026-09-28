@@ -1,8 +1,7 @@
 from __future__ import annotations
-
 import requests
 from typing import Any
-
+import time
 
 class WorldBankClient:
     def __init__(self, base_url: str = "https://api.worldbank.org/v2"):
@@ -17,31 +16,41 @@ class WorldBankClient:
     ) -> list[dict[str, Any]]:
 
         country_param = ";".join(countries)
-        indicator_param = ";".join(indicators)
+        all_data = []
 
-        url = (
-            f"{self.base_url}/country/"
-            f"{country_param}/indicator/"
-            f"{indicator_param}"
-        )
+        for indicator in indicators:
+            url = f"{self.base_url}/country/{country_param}/indicator/{indicator}"
+            
+            # FASE 10: Implementar paginación explícita
+            current_page = 1
+            total_pages = 1
+            
+            while current_page <= total_pages:
+                params = {
+                    "date": f"{start_year}:{end_year}",
+                    "format": "json",
+                    "per_page": 100, # Reducimos para forzar/probar la paginación si hay muchos datos
+                    "page": current_page
+                }
 
-        params = {
-            "date": f"{start_year}:{end_year}",
-            "format": "json",
-            "per_page": 1000,
-        }
+                response = requests.get(url, params=params, timeout=30)
+                response.raise_for_status()
+                payload = response.json()
 
-        response = requests.get(
-            url,
-            params=params,
-            timeout=30,
-        )
+                if len(payload) == 2 and payload[0] is not None and payload[1] is not None:
+                    # Extraer metadatos de paginación del índice 0
+                    metadata = payload[0]
+                    total_pages = metadata.get('pages', 1)
+                    
+                    # Extraer las observaciones del índice 1
+                    all_data.extend(payload[1])
+                else:
+                    break # Salir si la respuesta no tiene el formato esperado
+                
+                current_page += 1
+                time.sleep(0.5) # Buena práctica: no saturar la API en el ciclo while
 
-        response.raise_for_status()
+        if not all_data:
+            raise ValueError("Unexpected World Bank API response or no data found.")
 
-        payload = response.json()
-
-        if len(payload) < 2:
-            raise ValueError("Unexpected World Bank API response.")
-
-        return payload[1]
+        return all_data
