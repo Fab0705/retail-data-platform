@@ -1,0 +1,5122 @@
+[
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2025",
+    "value": 2279920092492.13,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2024",
+    "value": 2185821610689.31,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2023",
+    "value": 2191131765684.63,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2022",
+    "value": 1951923942083.32,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2021",
+    "value": 1670647398904.9,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2020",
+    "value": 1476107231310.49,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 1873288205059.69,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2018",
+    "value": 1916933898010.99,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2025",
+    "value": 357371159574.862,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2024",
+    "value": 329260633698.726,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2023",
+    "value": 335802745366.38,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2022",
+    "value": 301099244104.003,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2021",
+    "value": 315507493783.262,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2020",
+    "value": 254103710483.324,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 278308438545.118,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2018",
+    "value": 295857562991.709,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2025",
+    "value": 457410034202.523,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2024",
+    "value": 420504033143.211,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2023",
+    "value": 366901643683.302,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2022",
+    "value": 345632492851.448,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2021",
+    "value": 318524633225.395,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2020",
+    "value": 270348342541.465,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 323031701192.84,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2018",
+    "value": 334198218098.276,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2025",
+    "value": 1832641364775.52,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2024",
+    "value": 1830489311088.89,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2023",
+    "value": 1794410347718.25,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2022",
+    "value": 1466934724243.38,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2021",
+    "value": 1316569466833.94,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2020",
+    "value": 1121064767168.8,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 1304106204006.27,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2018",
+    "value": 1256300182983.65,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2025",
+    "value": 334854659181.893,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2024",
+    "value": 291751523018.903,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2023",
+    "value": 268025009709.319,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2022",
+    "value": 246169867862.821,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2021",
+    "value": 226406075008.878,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2020",
+    "value": 201409694755.934,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 228346006003.648,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.MKTP.CD",
+      "value": "GDP (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2018",
+    "value": 222597009739.235,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2025",
+    "value": 10713.2856869511,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2024",
+    "value": 10310.5486973693,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2023",
+    "value": 10377.5892792557,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2022",
+    "value": 9281.33334441234,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2021",
+    "value": 7972.5366498646,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2020",
+    "value": 7074.19378337644,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 9029.83326681073,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2018",
+    "value": 9300.66164923219,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2025",
+    "value": 17994.5911957485,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2024",
+    "value": 16658.9652720351,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2023",
+    "value": 17081.5180740049,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2022",
+    "value": 15399.1044717559,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2021",
+    "value": 16216.1840860289,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2020",
+    "value": 13117.9930230086,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 14496.9345640362,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2018",
+    "value": 15659.4808675628,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2025",
+    "value": 8561.62091854449,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2024",
+    "value": 7951.08624019412,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2023",
+    "value": 7012.49169137756,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2022",
+    "value": 6680.44506854481,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2021",
+    "value": 6222.62164397614,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2020",
+    "value": 5339.68711357943,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 6472.54544924705,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2018",
+    "value": 6816.96818309544,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2025",
+    "value": 13889.2339628708,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2024",
+    "value": 13988.0423745241,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2023",
+    "value": 13830.843848864,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2022",
+    "value": 11405.7940469896,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2021",
+    "value": 10314.0506733708,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2020",
+    "value": 8841.27074929751,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 10369.5553593527,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2018",
+    "value": 10084.7937570364,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2025",
+    "value": 9684.41170314988,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2024",
+    "value": 8526.29665719783,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2023",
+    "value": 7919.04634828547,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2022",
+    "value": 7353.74598721667,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2021",
+    "value": 6828.53422535638,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2020",
+    "value": 6133.32552410183,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 7037.00803692604,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "NY.GDP.PCAP.CD",
+      "value": "GDP per capita (current US$)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2018",
+    "value": 6978.49121548627,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2025",
+    "value": 212812405,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2024",
+    "value": 211998573,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2023",
+    "value": 211140729,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2022",
+    "value": 210306415,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2021",
+    "value": 209550294,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2020",
+    "value": 208660842,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 207455459,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2018",
+    "value": 206107261,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2025",
+    "value": 19859921,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2024",
+    "value": 19764771,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2023",
+    "value": 19658835,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2022",
+    "value": 19553036,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2021",
+    "value": 19456334,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2020",
+    "value": 19370624,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 19197744,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2018",
+    "value": 18893191,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2025",
+    "value": 53425635,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2024",
+    "value": 52886363,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2023",
+    "value": 52321152,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2022",
+    "value": 51737944,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2021",
+    "value": 51188173,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2020",
+    "value": 50629997,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 49907985,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2018",
+    "value": 49024465,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2025",
+    "value": 131946900,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2024",
+    "value": 130861007,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2023",
+    "value": 129739759,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2022",
+    "value": 128613117,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2021",
+    "value": 127648148,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2020",
+    "value": 126799054,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 125762982,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2018",
+    "value": 124573711,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2025",
+    "value": 34576665,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2024",
+    "value": 34217848,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2023",
+    "value": 33845617,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2022",
+    "value": 33475438,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2021",
+    "value": 33155882,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2020",
+    "value": 32838579,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 32449303,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2018",
+    "value": 31897584,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2025",
+    "value": 5.01675279604836,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2024",
+    "value": 4.36746407652337,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2023",
+    "value": 4.59356282283204,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2022",
+    "value": 9.28010608956873,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2021",
+    "value": 8.30165975585673,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2020",
+    "value": 3.21176803803376,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 3.73297621216894,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2018",
+    "value": 3.66485028376729,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2025",
+    "value": 4.21293601694293,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2024",
+    "value": 4.29763891572524,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2023",
+    "value": 7.58168251407962,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2022",
+    "value": 11.643866711056,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2021",
+    "value": 4.52456838259144,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2020",
+    "value": 3.04549084804326,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 2.55754475703327,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2018",
+    "value": 2.43488981353057,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2025",
+    "value": 5.14222911946201,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2024",
+    "value": 6.60908593728228,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2023",
+    "value": 11.7359044948689,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2022",
+    "value": 10.1772313546166,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2021",
+    "value": 3.49505757399448,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2020",
+    "value": 2.52663500084706,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 3.52301932741447,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2018",
+    "value": 3.24056932930569,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2025",
+    "value": 3.80668650726485,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2024",
+    "value": 4.72225588452932,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2023",
+    "value": 5.52796087314389,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2022",
+    "value": 7.8962761916855,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2021",
+    "value": 5.68920847683753,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2020",
+    "value": 3.39683415570006,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 3.63596142127046,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2018",
+    "value": 4.89935015356551,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2025",
+    "value": 1.53125450314273,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2024",
+    "value": 2.00770739412712,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2023",
+    "value": 6.45561348369586,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2022",
+    "value": 8.33370630096231,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2021",
+    "value": 4.27166381536798,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2020",
+    "value": 2.00241205759292,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 2.25212191358027,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "FP.CPI.TOTL.ZG",
+      "value": "Inflation, consumer prices (annual %)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2018",
+    "value": 1.50915423024742,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2025",
+    "value": 5.97,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2024",
+    "value": 6.801,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2023",
+    "value": 7.947,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2022",
+    "value": 9.231,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2021",
+    "value": 13.158,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2020",
+    "value": 13.697,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 11.936,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2018",
+    "value": 12.329,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2025",
+    "value": 8.974,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2024",
+    "value": 8.718,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2023",
+    "value": 9.013,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2022",
+    "value": 8.249,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2021",
+    "value": 9.281,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2020",
+    "value": 10.934,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 7.493,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2018",
+    "value": 7.623,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2025",
+    "value": 8.29,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2024",
+    "value": 9.619,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2023",
+    "value": 9.591,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2022",
+    "value": 10.541,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2021",
+    "value": 13.898,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2020",
+    "value": 15.983,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 10.28,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2018",
+    "value": 9.36,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2025",
+    "value": 2.673,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2024",
+    "value": 2.678,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2023",
+    "value": 2.765,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2022",
+    "value": 3.256,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2021",
+    "value": 4.019,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2020",
+    "value": 4.44,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 3.477,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2018",
+    "value": 3.275,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2025",
+    "value": 5.117,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2024",
+    "value": 5.199,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2023",
+    "value": 4.899,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2022",
+    "value": 4.291,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2021",
+    "value": 5.097,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2020",
+    "value": 7.179,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 3.379,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "SL.UEM.TOTL.ZS",
+      "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2018",
+    "value": 3.492,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 1
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2025",
+    "value": 5.58728623856661,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2024",
+    "value": 5.3889349057096,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2023",
+    "value": 4.99437976287199,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2022",
+    "value": 5.16397029102111,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2021",
+    "value": 5.39440078962503,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2020",
+    "value": 5.15517878751281,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 3.9444710972507,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2018",
+    "value": 3.65382536145755,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2025",
+    "value": 951.329454191033,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2024",
+    "value": 943.572167421488,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2023",
+    "value": 840.066526651499,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2022",
+    "value": 873.314189543014,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2021",
+    "value": 758.955378658977,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2020",
+    "value": 792.727206103169,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 702.897422561529,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2018",
+    "value": 641.276813066395,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2025",
+    "value": 4053.13583333333,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2024",
+    "value": 4074.43416666667,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2023",
+    "value": 4325.955,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2022",
+    "value": 4256.19416666667,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2021",
+    "value": 3744.24416666667,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2020",
+    "value": 3693.27583333333,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 3281.62219381788,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2018",
+    "value": 2955.70396997842,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2025",
+    "value": 19.2375083333333,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2024",
+    "value": 18.3048583333333,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2023",
+    "value": 17.7587166666667,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2022",
+    "value": 20.12735,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2021",
+    "value": 20.2724083333333,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2020",
+    "value": 21.4856083333333,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 19.2636333333333,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2018",
+    "value": 19.2443416666667,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2025",
+    "value": 3.5670638032991,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2024",
+    "value": 3.7525,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2023",
+    "value": 3.74382620959376,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2022",
+    "value": 3.83518137473542,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2021",
+    "value": 3.88055413137587,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2020",
+    "value": 3.4949411976912,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 3.3372655465368,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "PA.NUS.FCRF",
+      "value": "Official exchange rate (LCU per US$, period average)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2018",
+    "value": 3.28660269803296,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 2
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2025",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2024",
+    "value": 84.46347227,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2023",
+    "value": 84.15060238,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2022",
+    "value": 80.52775094,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2021",
+    "value": 80.68989314,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2020",
+    "value": 81.34269353,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 73.9124399133589,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2018",
+    "value": 70.4342825404361,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2025",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2024",
+    "value": 95.590243,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2023",
+    "value": 94.45742345,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2022",
+    "value": 92.31819916,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2021",
+    "value": 90.23280334,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2020",
+    "value": 87.45929718,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 85.01760101,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2018",
+    "value": 84.90000153,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2025",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2024",
+    "value": 79.34543299,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2023",
+    "value": 77.33686322,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2022",
+    "value": 72.79637855,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2021",
+    "value": 73.02837449,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2020",
+    "value": 69.79533474,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 65.0069007159493,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2018",
+    "value": 64.1263768204459,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2025",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2024",
+    "value": 83.12233799,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2023",
+    "value": 81.18318755,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2022",
+    "value": 78.63217894,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2021",
+    "value": 75.62650476,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2020",
+    "value": 71.49017499,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 69.6321092705209,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2018",
+    "value": 56.6595667981289,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2025",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2024",
+    "value": 81.95705992,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2023",
+    "value": 79.48484477,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2022",
+    "value": 74.67495213,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2021",
+    "value": 71.10782643,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2020",
+    "value": 65.25179796,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 59.9505036049006,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "IT.NET.USER.ZS",
+      "value": "Individuals using the Internet (% of population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2018",
+    "value": 55.0543342443197,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2025",
+    "value": 88.1772996487898,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2024",
+    "value": 87.8958549533146,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2023",
+    "value": 87.6159710235763,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2022",
+    "value": 87.349556243881,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2021",
+    "value": 87.1360781715439,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2020",
+    "value": 86.9112186503004,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2019",
+    "value": 86.6797991084296,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "BR",
+      "value": "Brazil"
+    },
+    "countryiso3code": "BRA",
+    "date": "2018",
+    "value": 86.4420719945072,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2025",
+    "value": 89.1772830019223,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2024",
+    "value": 88.9950908479196,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2023",
+    "value": 88.8158617217972,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2022",
+    "value": 88.6395352768685,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2021",
+    "value": 88.4660511664452,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2020",
+    "value": 88.2953490438375,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2019",
+    "value": 88.1273685623538,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CL",
+      "value": "Chile"
+    },
+    "countryiso3code": "CHL",
+    "date": "2018",
+    "value": 87.9620493753008,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2025",
+    "value": 78.7827914751151,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2024",
+    "value": 78.5210811866115,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2023",
+    "value": 78.275571579544,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2022",
+    "value": 78.0464633137335,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2021",
+    "value": 77.8339570326128,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2020",
+    "value": 77.6382533537045,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2019",
+    "value": 77.4595528518377,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "CO",
+      "value": "Colombia"
+    },
+    "countryiso3code": "COL",
+    "date": "2018",
+    "value": 77.2804816598084,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2025",
+    "value": 80.0408930629723,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2024",
+    "value": 79.7538805976118,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2023",
+    "value": 79.4734935748046,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2022",
+    "value": 79.199683215791,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2021",
+    "value": 78.9324007418057,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2020",
+    "value": 78.677960602824,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2019",
+    "value": 78.355984332992,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "MX",
+      "value": "Mexico"
+    },
+    "countryiso3code": "MEX",
+    "date": "2018",
+    "value": 78.0271223924494,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2025",
+    "value": 85.5963484845463,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2024",
+    "value": 85.1912729600355,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2023",
+    "value": 84.7810255849745,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2022",
+    "value": 84.3663554951194,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2021",
+    "value": 83.9480118272361,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2020",
+    "value": 83.5267437189637,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2019",
+    "value": 83.1033003087105,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "value": "Urban population (% of total population)"
+    },
+    "country": {
+      "id": "PE",
+      "value": "Peru"
+    },
+    "countryiso3code": "PER",
+    "date": "2018",
+    "value": 82.6854929960921,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  }
+]

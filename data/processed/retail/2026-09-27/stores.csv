@@ -1,0 +1,11 @@
+store_id,store_name,country_code,city,store_type
+ST-PER-1,MegaStore PER 1,PER,Capital of PER,Outlet
+ST-PER-2,MegaStore PER 2,PER,Capital of PER,Mall
+ST-BRA-1,MegaStore BRA 1,BRA,Capital of BRA,Mall
+ST-BRA-2,MegaStore BRA 2,BRA,Capital of BRA,Outlet
+ST-CHL-1,MegaStore CHL 1,CHL,Capital of CHL,Street
+ST-CHL-2,MegaStore CHL 2,CHL,Capital of CHL,Mall
+ST-COL-1,MegaStore COL 1,COL,Capital of COL,Mall
+ST-COL-2,MegaStore COL 2,COL,Capital of COL,Mall
+ST-MEX-1,MegaStore MEX 1,MEX,Capital of MEX,Outlet
+ST-MEX-2,MegaStore MEX 2,MEX,Capital of MEX,Mall
