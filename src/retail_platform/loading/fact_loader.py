@@ -34,3 +34,18 @@ class FactLoader:
         self.conn.commit()
         cursor.close()
         print("  ✓ Fact Sales actualizada (Upsert con resolución de Surrogate Keys).")
+
+    def upsert_economic_facts(self):
+        cursor = self.conn.cursor()
+        query = """
+        INSERT INTO retail.fact_economy (country_code, indicator_code, year, value)
+        SELECT country_code, indicator_code, CAST(year AS INT), CAST(value AS NUMERIC)
+        FROM staging.world_bank
+        WHERE value IS NOT NULL
+        ON CONFLICT (country_code, indicator_code, year) DO UPDATE SET
+            value = EXCLUDED.value;
+        """
+        cursor.execute(query)
+        self.conn.commit()
+        cursor.close()
+        print("  ✓ Fact Economy actualizada (Upsert).")
