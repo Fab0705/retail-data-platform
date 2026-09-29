@@ -29,26 +29,37 @@ class WorldBankClient:
                 params = {
                     "date": f"{start_year}:{end_year}",
                     "format": "json",
-                    "per_page": 100, # Reducimos para forzar/probar la paginación si hay muchos datos
+                    "per_page": 100, 
                     "page": current_page
                 }
 
-                response = requests.get(url, params=params, timeout=30)
-                response.raise_for_status()
+                # --- NUEVO: Sistema de reintentos automáticos ---
+                max_retries = 3
+                for attempt in range(max_retries):
+                    try:
+                        # Aumentamos el timeout a 60 segundos
+                        response = requests.get(url, params=params, timeout=60)
+                        response.raise_for_status()
+                        break # Si la petición es exitosa, rompemos el ciclo de reintentos
+                    except requests.exceptions.RequestException as e:
+                        if attempt < max_retries - 1:
+                            print(f"      [!] Demora en la red. Reintentando ({attempt + 1}/{max_retries}) en 5 segundos...")
+                            time.sleep(5)
+                        else:
+                            raise ValueError(f"Fallo crítico al conectar con la API tras {max_retries} intentos: {e}")
+                # ------------------------------------------------
+
                 payload = response.json()
 
                 if len(payload) == 2 and payload[0] is not None and payload[1] is not None:
-                    # Extraer metadatos de paginación del índice 0
                     metadata = payload[0]
                     total_pages = metadata.get('pages', 1)
-                    
-                    # Extraer las observaciones del índice 1
                     all_data.extend(payload[1])
                 else:
-                    break # Salir si la respuesta no tiene el formato esperado
+                    break 
                 
                 current_page += 1
-                time.sleep(0.5) # Buena práctica: no saturar la API en el ciclo while
+                time.sleep(0.5)
 
         if not all_data:
             raise ValueError("Unexpected World Bank API response or no data found.")
