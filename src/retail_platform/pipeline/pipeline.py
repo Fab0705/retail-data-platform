@@ -7,7 +7,7 @@ import yaml
 from src.retail_platform.extraction.world_bank import WorldBankClient
 from src.retail_platform.extraction.sales_generator import RetailDataGenerator
 from src.retail_platform.transformation import cleaning, normalization, business_rules, currency
-from src.retail_platform.quality.validator import DataQualityValidator
+from src.retail_platform.validation import DataValidator
 from src.retail_platform.loading.connection import DatabaseConnection
 from src.retail_platform.loading.staging_loader import StagingLoader
 from src.retail_platform.loading.dimension_loader import DimensionLoader
@@ -73,8 +73,22 @@ class MasterPipeline:
             sales_clean = cleaning.drop_missing_critical_keys(sales_clean, ['transaction_id'])
             
             # Calidad de datos
-            validator = DataQualityValidator()
-            validator.validate_not_null(sales_clean, "Sales", "transaction_id")
+            validator = DataValidator()
+
+            # 1. Validas Estructura primero
+            validator.schema.validate_required_columns(
+                sales_clean, "Sales", ["transaction_id", "product_id", "quantity", "unit_price"]
+            )
+
+            # 2. Validas Integridad Técnica
+            validator.quality.check_not_null(sales_clean, "Sales", "transaction_id")
+            validator.quality.check_unique(sales_clean, "Sales", ["transaction_id", "product_id"])
+
+            # 3. Validas Reglas de Negocio
+            validator.business.check_positive_value(sales_clean, "Sales", "unit_price", level="WARNING")
+            validator.business.check_allowed_values(
+                customers, "Customers", "country_code", allowed_values=['PER', 'BRA', 'CHL', 'COL', 'MEX']
+            )
             
             # Rastrear registros rechazados vs pasados
             self.metrics.validation['passed'] = len(sales_clean)
